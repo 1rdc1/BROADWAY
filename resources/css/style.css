@@ -2,3 +2,46 @@ html {
   text-align: center;
   font-family: Helvetica;
 }
+
+h1 {
+  font-size: 70px;
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+p {
+  font-size: 14px;
+}
+
+a {
+  color: white;
+}
+
+.intro {
+  background-image:
+  url("../images/the-flatiron-building.png");
+}
+
+.yankee {
+  background-image:
+  url("../images/the-flatiron-building.png");
+  color: white;
+}
+
+.nav {
+  font-size: 18px:
+  color: white;
+}
+
+.footer {
+text-align: left;
+color: white;
+background-color: dimgray;
+}
